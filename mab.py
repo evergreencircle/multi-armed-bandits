@@ -1,3 +1,5 @@
+# code from https://github.com/massi82/multi-armed-bandit
+
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.optimize import fsolve

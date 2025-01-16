@@ -1,3 +1,4 @@
+# code from https://github.com/massi82/multi-armed-bandit
 import random
 import numpy as np
 from scipy.optimize import fsolve

@@ -1,3 +1,5 @@
+# code from https://github.com/massi82/multi-armed-bandit
+
 import matplotlib.pyplot as plt
 
 def plot_arm_allocations(arm_allocations):
